@@ -10,3 +10,6 @@
 ## Автор
 Artem Blinov
 
+![image](https://github.com/blinovartem04/Calculator/assets/101421711/348796f0-b9f6-40ca-9973-e9f405846f1d)
+
+
