@@ -9,3 +9,7 @@ You can extend the functionality of this calculator by adding new operations or 
 
 ## Author
 Artem Blinov
+
+![image](https://github.com/blinovartem04/Calculator/assets/101421711/5989c852-ab00-45ae-b75b-2a79d27183d6)
+
+
